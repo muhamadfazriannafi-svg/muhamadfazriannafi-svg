@@ -30,31 +30,12 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
-### 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamadfazriannafi-svg&show_icons=true&theme=tokyonight" alt="muhamadfazriannafi-svg stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadfazriannafi-svg&theme=tokyonight" alt="streak stats" />
-</p>
-
 ### ⏱️ WakaTime Stats:
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tuan_Muda_Fazri&theme=tokyonight&layout=compact&hide=Other" alt="wakatime stats" />
 </p>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 17 October 2026 - To: 24 October 2026
-
-Total Time: 16 hrs 40 mins
-
-PHP          7 hrs 6 mins          >>>>>>>>>----------------   34.74 %
-Vue          5 hrs 53 mins         >>>>>>>------------------   28.81 %
-Other        3 hrs 47 mins         >>>>>--------------------   18.54 %
-```
-
 <!--END_SECTION:waka-->
 
 → skipped: profile visitor counter & trophy cards, add when required.
