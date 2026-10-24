@@ -43,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhamadfazriannafi-svg&theme=tokyonight&layout=compact" alt="wakatime stats" />
 </p>
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 → skipped: profile visitor counter & trophy cards, add when required.
