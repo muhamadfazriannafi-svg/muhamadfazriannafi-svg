@@ -40,7 +40,7 @@
 
 ### ⏱️ WakaTime Stats:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhamadfazriannafi-svg&theme=tokyonight&layout=compact" alt="wakatime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tuan_Muda_Fazri&theme=tokyonight&layout=compact&hide=Other" alt="wakatime stats" />
 </p>
 
 <!--START_SECTION:waka-->
