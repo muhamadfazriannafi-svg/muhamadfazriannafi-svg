@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2026 - To: 17 November 2026
+From: 11 November 2026 - To: 18 November 2026
 
-Total Time: 11 hrs 38 mins
+Total Time: 12 hrs 52 mins
 
-Python        4 hrs                 >>>>>>>------------------   29.91 %
-Vue           2 hrs 32 mins         >>>>>--------------------   18.97 %
-Other         1 hr 46 mins          >>>----------------------   13.19 %
+Vue           3 hrs 43 mins         >>>>>>-------------------   24.50 %
+Python        2 hrs 40 mins         >>>>---------------------   17.66 %
+Other         2 hrs 19 mins         >>>>---------------------   15.26 %
 ```
 
 <!--END_SECTION:waka-->
